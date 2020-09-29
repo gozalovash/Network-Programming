@@ -1,21 +1,22 @@
-Network Programming
+#Network Programming
 This project is designed to boost the network programming knowledge by solving different labs
 
 
-Prerequisites:
+##Prerequisites:
 Python3
 
 
-Libraries used: 
+##Libraries used: 
 
 socket
 argparse
 datetime
 random
 
-Content:
+##Content:
 
 lab1_spotify.py- first lab
+
 Scenario:
 The Spotify regional server warehouse provides music streaming services for the billions of
 clients 24/7. Spotify servers responding time are depend on clients load number. Because of this reason,
