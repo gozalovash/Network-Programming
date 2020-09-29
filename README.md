@@ -1,17 +1,17 @@
-#Network Programming
+# Network Programming
 This project is designed to boost the network programming knowledge by solving different labs
 
 
-##Prerequisites:
+## Prerequisites:
 Python3
 
 
-##Libraries used: 
+## Libraries used: 
 
-socket
-argparse
-datetime
-random
+- socket
+- argparse
+- datetime
+- random
 
 ##Content:
 
