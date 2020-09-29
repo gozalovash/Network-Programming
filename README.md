@@ -29,6 +29,19 @@ import random
    #### Task
  > Create the Client-Server based UDP basic console application with simple test messaging from the client to the server but with the backoff strategies based on the scenario above.
 
+## Usage
+
+To run the program as server:
+
+```
+python lab1_spotify.py server [HOST] [PORT]
+```
+To run as client:
+
+```
+python lab1_spotify.py client [HOST] [PORT]
+```
+
 
 ## Contributing
 Pull requests are not welcome. For any changes, please open an issue first to discuss what you would like to change.
